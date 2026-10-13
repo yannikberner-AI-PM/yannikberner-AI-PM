@@ -15,14 +15,16 @@ I turn ambiguous product problems into clear decisions, testable increments, and
 
 ## Selected outcomes
 
-- Helped scale a digital energy platform to around 100,000 active customers, with a 98% switching success rate and more than €20 million in accumulated customer savings.
 - Shaped HEMS product strategy and delivery for more than 20,000 connected residential energy systems.
 - Improved customer satisfaction by 60% and reduced support effort by 50% while developing an international IoT and SaaS platform.
 - Supported cloud migration and product rollout across more than six European markets.
+- Helped scale a digital energy platform to around 100,000 active customers, with a 98% switching success rate and more than €20 million in accumulated customer savings.
 
-The figures above describe outcomes from my professional product roles. They are not results from the personal prototypes below.
+These outcomes come from my professional product roles. The independent projects below serve a different purpose.
 
-## Selected product work
+## Independent AI research and prototypes
+
+These private projects are my hands-on AI product lab for research, prototyping, user testing, and iteration. I work with local and cloud models, compare privacy and product trade-offs, and track model usage and token spend in Grafana.
 
 ### [Movur, whiteboard and metrics in one app](https://yannikberner-ai-pm.github.io/?lang=en#visual-workspace)
 
