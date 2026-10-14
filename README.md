@@ -26,19 +26,19 @@ These outcomes come from my professional product roles. The independent projects
 
 These private projects are my hands-on AI product lab for research, prototyping, user testing, and iteration. I work with local and cloud models, compare privacy and product trade-offs, and track model usage and token spend in Grafana.
 
-### [Movur, whiteboard and metrics in one app](https://yannikberner-ai-pm.github.io/?lang=en#visual-workspace)
+### [Web App: Whiteboard & Metrics in one App](https://yannikberner-ai-pm.github.io/?lang=en#visual-workspace)
 
 A visual workspace that connects processes, business metrics, calculations, and real work artefacts. The prototype explores typed connections, live formulas, and the effect of process changes in one model.
 
-### [Stakeholder Intelligence](https://yannikberner-ai-pm.github.io/?lang=en#stakeholder-intelligence)
+### [Local App: Stakeholder Intelligence](https://yannikberner-ai-pm.github.io/?lang=en#stakeholder-intelligence)
 
 A local-first product for mapping stakeholder proximity and type, planning collaboration, and keeping follow-ups visible.
 
-### [MIOVO, predictive mentoring](https://yannikberner-ai-pm.github.io/?lang=en#predictive-mentoring)
+### [Mobile App: Predictive Mentoring](https://yannikberner-ai-pm.github.io/?lang=en#predictive-mentoring)
 
 A mobile prototype that turns personal goals into actions and observable outcomes. It uses local data, an on-device model path, and deterministic fallbacks when AI is unavailable.
 
-### [Cyber Security Connector](https://yannikberner-ai-pm.github.io/?lang=en#cyber-security-connector)
+### [Web App: Cyber Security Connector](https://yannikberner-ai-pm.github.io/?lang=en#cyber-security-connector)
 
 A research prototype for turning connected HR, quality, and onboarding data into reviewable security measures, ticket workflows, and evidence. Human approval remains part of consequential decisions.
 
