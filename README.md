@@ -26,7 +26,7 @@ These outcomes come from my professional product roles. The independent projects
 
 These private projects are my hands-on AI product lab for research, prototyping, user testing, and iteration. I work with local and cloud models, compare privacy and product trade-offs, and track model usage and token spend in Grafana.
 
-### [Web App: Whiteboard & Metrics in one App](https://yannikberner-ai-pm.github.io/?lang=en#visual-workspace)
+### [Web App: Whiteboard & Metrics in one App](https://github.com/yannikberner-AI-PM/movur-showcase)
 
 A visual workspace that connects processes, business metrics, calculations, and real work artefacts. The prototype explores typed connections, live formulas, and the effect of process changes in one model.
 
