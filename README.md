@@ -30,15 +30,15 @@ These private projects are my hands-on AI product lab for research, prototyping,
 
 A visual workspace that connects processes, business metrics, calculations, and real work artefacts. The prototype explores typed connections, live formulas, and the effect of process changes in one model.
 
-### [Local App: Stakeholder Intelligence](https://yannikberner-ai-pm.github.io/?lang=en#stakeholder-intelligence)
+### [Local App: Stakeholder Intelligence](https://github.com/yannikberner-AI-PM/stakeholder-intelligence-showcase)
 
 A local-first product for mapping stakeholder proximity and type, planning collaboration, and keeping follow-ups visible.
 
-### [Mobile App: Predictive Mentoring](https://yannikberner-ai-pm.github.io/?lang=en#predictive-mentoring)
+### [Mobile App: Predictive Mentoring](https://github.com/yannikberner-AI-PM/predictive-mentoring-showcase)
 
 A mobile prototype that turns personal goals into actions and observable outcomes. It uses local data, an on-device model path, and deterministic fallbacks when AI is unavailable.
 
-### [Web App: Cyber Security Connector](https://yannikberner-ai-pm.github.io/?lang=en#cyber-security-connector)
+### [Web App: Cyber Security Connector](https://github.com/yannikberner-AI-PM/cyber-security-connector-showcase)
 
 A research prototype for turning connected HR, quality, and onboarding data into reviewable security measures, ticket workflows, and evidence. Human approval remains part of consequential decisions.
 
