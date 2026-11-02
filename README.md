@@ -2,9 +2,16 @@
 
 Senior Product Manager working across AI, connected energy, IoT, and complex software and hardware products.
 
-I turn ambiguous product problems into clear decisions, testable increments, and systems that teams can ship and operate. My work connects product strategy with architecture, data, business processes, and delivery.
+I connect product strategy with business growth, turning customer needs and market opportunities into scalable products that deliver lasting value. My work aligns business goals, customer insight and technical feasibility, from strategic direction through delivery and growth.
 
 [Portfolio](https://yannikberner-ai-pm.github.io/?lang=en) · [LinkedIn](https://www.linkedin.com/in/yannik-berner-72235216b/)
+
+## The value I deliver
+
+- **Clear direction:** Turn user problems and business goals into a target state, prioritised roadmap and testable increments, so engineering knows what comes next and management knows why.
+- **Connected product decisions:** Bring devices, embedded software, cloud services and data into one product logic, making integration dependencies and trade-offs visible.
+- **Controlled modernisation:** Structure technical debt, interfaces and migration risks into incremental releases, with parallel operation and phased rollouts where needed.
+- **Alignment that enables delivery:** Bring business, operations and engineering onto the same priorities before conflicting requirements become expensive parallel work.
 
 ## Product experience
 
@@ -28,7 +35,7 @@ These private projects are my hands-on AI product lab for research, prototyping,
 
 ### [Web App: Whiteboard & Metrics in one App](https://github.com/yannikberner-AI-PM/movur-showcase)
 
-A visual workspace that connects processes, business metrics, calculations, and real work artefacts. The prototype explores typed connections, live formulas, and the effect of process changes in one model.
+A visual workspace for making workflows visible, calculating the impact of changes and prioritising automation. The browser prototype connects process steps, business metrics and real work artefacts. A service-order example compares current and proposed workflows, with live formulas showing total process time and potential time savings.
 
 ### [Local App: Stakeholder Intelligence](https://github.com/yannikberner-AI-PM/stakeholder-intelligence-showcase)
 
