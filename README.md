@@ -1,5 +1,7 @@
 # Yannik Berner
 
+**English** | [Deutsch](README.de.md)
+
 Senior Product Manager working across AI, connected energy, IoT, and complex software and hardware products.
 
 I connect product strategy with business growth, turning customer needs and market opportunities into scalable products that deliver lasting value. My work aligns business goals, customer insight and technical feasibility, from strategic direction through delivery and growth.
