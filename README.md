@@ -47,9 +47,9 @@ A local-first product for mapping stakeholder proximity and type, planning colla
 
 A mobile prototype that turns personal goals into actions and observable outcomes. It uses local data, an on-device model path, and deterministic fallbacks when AI is unavailable.
 
-### [Web App: Cyber Security Connector](https://github.com/yannikberner-AI-PM/cyber-security-connector-showcase)
+### [Web App: Lotse](https://github.com/yannikberner-AI-PM/cyber-security-connector-showcase)
 
-A research prototype for turning connected HR, quality, and onboarding data into reviewable security measures, ticket workflows, and evidence. Human approval remains part of consequential decisions.
+A research prototype for a SaaS product companies can use directly. The goal: turn existing company documents into a traceable NIS2 assessment, guide responsible people through open decisions and measures, track implementation, and make executive reports part of a required internal review workflow. Human approval and evidence provenance are central. The complete workflow is not yet implemented; consulting partners and external ticket systems are optional.
 
 ## Current public build
 
