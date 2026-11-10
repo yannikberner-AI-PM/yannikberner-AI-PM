@@ -47,9 +47,9 @@ Ein Local-first-Produkt, um Nähe und Typ von Stakeholdern abzubilden, Zusammena
 
 Ein mobiler Prototyp, der persönliche Ziele in Handlungen und beobachtbare Ergebnisse übersetzt. Er nutzt lokale Daten, einen Ausführungspfad für ein Modell auf dem Gerät und deterministische Fallbacks, wenn KI nicht verfügbar ist.
 
-### [Web-App: Cyber Security Connector](https://github.com/yannikberner-AI-PM/cyber-security-connector-showcase/blob/main/README.de.md)
+### [Web-App: Lotse](https://github.com/yannikberner-AI-PM/cyber-security-connector-showcase/blob/main/README.de.md)
 
-Ein Forschungsprototyp, der verknüpfte HR-, Qualitäts- und Onboarding-Daten in überprüfbare Sicherheitsmaßnahmen, Ticketabläufe und Nachweise übersetzt. Bei folgenreichen Entscheidungen bleibt menschliche Freigabe erforderlich.
+Ein Forschungsprototyp für ein direkt im Unternehmen nutzbares SaaS. Das Ziel: vorhandene Unternehmensunterlagen in eine nachvollziehbare NIS-2-Bestandsaufnahme überführen, zuständige Personen durch offene Entscheidungen und Maßnahmen führen, die Umsetzung nachverfolgen und Executive-Reports als verbindlichen internen Reviewworkflow verankern. Menschliche Freigabe und nachvollziehbare Nachweise sind zentral. Der vollständige Ablauf ist noch nicht implementiert; Beratungspartner und externe Ticket-Systeme sind optional.
 
 ## Aktuelles öffentliches Entwicklungsvorhaben
 
