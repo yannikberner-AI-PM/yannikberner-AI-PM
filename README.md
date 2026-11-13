@@ -31,25 +31,25 @@ I connect product strategy with business growth, turning customer needs and mark
 
 These outcomes come from my professional product roles. The independent projects below serve a different purpose.
 
-## Independent AI research and prototypes
+## Independent product prototypes and AI research
 
-These private projects are my hands-on AI product lab for research, prototyping, user testing, and iteration. I work with local and cloud models, compare privacy and product trade-offs, and track model usage and token spend in Grafana.
+How can scattered information become better decisions and concrete next steps? These independent projects explore that question through four different user problems. The showcases present product workflows, selected implementations, and their limits. AI is a possible tool, not an end in itself; not every project already has an implemented AI feature.
 
 ### [Web App: Whiteboard & Metrics in one App](https://github.com/yannikberner-AI-PM/movur-showcase)
 
-A visual workspace for making workflows visible, calculating the impact of changes and prioritising automation. The browser prototype connects process steps, business metrics and real work artefacts. A service-order example compares current and proposed workflows, with live formulas showing total process time and potential time savings.
+**Understand connections and calculate the implications of a decision.** movur brings ideas, work artefacts, and metrics onto one board. Connected cards and formulas show how changing assumptions affects a funnel, a budget, or a workflow. Alternatives can be compared in the same model rather than maintaining separate whiteboards and spreadsheets. The editor is implemented; AI-assisted board creation and editing are planned.
 
 ### [Local App: Stakeholder Intelligence](https://github.com/yannikberner-AI-PM/stakeholder-intelligence-showcase)
 
-A local-first product for mapping stakeholder proximity and type, planning collaboration, and keeping follow-ups visible.
+**Prepare conversations with context and approach your own collaboration more deliberately.** The local-first prototype connects a visual stakeholder map with roles, observations, and open questions. It helps users reflect on relationships and prepare the next conversation. Optional communication suggestions are reviewed before acceptance. Classifications are personal working hypotheses, not automatic personality analysis; follow-ups are notes, not reminders.
 
 ### [Mobile App: Predictive Mentoring](https://github.com/yannikberner-AI-PM/predictive-mentoring-showcase)
 
-A mobile prototype that turns personal goals into actions and observable outcomes. It uses local data, an on-device model path, and deterministic fallbacks when AI is unavailable.
+**Turn long-term goals into manageable next steps.** MIOVO connects personal goals with small everyday actions, journal entries, and reflection on progress. The mobile prototype helps users identify their current focus and possible next steps rather than just record goals. Progress values are heuristic, not validated predictions of success. The demonstrated workflow uses a local rule-based helper; on-device language-model execution has not been demonstrated.
 
 ### [Web App: Lotse](https://github.com/yannikberner-AI-PM/cyber-security-connector-showcase)
 
-A research prototype for a SaaS product companies can use directly. The goal: turn existing company documents into a traceable NIS2 assessment, guide responsible people through open decisions and measures, track implementation, and make executive reports part of a required internal review workflow. Human approval and evidence provenance are central. The complete workflow is not yet implemented; consulting partners and external ticket systems are optional.
+**Turn existing company information into a traceable action plan for information security/cyber security.** Lotse aims to help companies prepare a NIS2 assessment, assign open decisions and measures, and track implementation through internal executive review. The goal is a shared working picture rather than separate documents, task lists, and reports. The research prototype demonstrates rule-based measure suggestions and simulated tickets. Document analysis, evidence management, and required approvals do not yet form a complete workflow; this is not a compliance guarantee.
 
 ## Current public build
 

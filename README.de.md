@@ -31,25 +31,25 @@ Ich verbinde Produktstrategie mit Geschäftswachstum und übersetze Kundenbedür
 
 Diese Ergebnisse stammen aus meinen beruflichen Produktrollen. Die folgenden eigenständigen Projekte verfolgen einen anderen Zweck.
 
-## Eigenständige KI-Forschung und Prototypen
+## Eigenständige Produktprototypen und KI-Forschung
 
-Diese privaten Projekte sind mein praktisches KI-Produktlabor für Forschung, Prototyping, Nutzertests und Iteration. Ich arbeite mit lokalen und cloudbasierten Modellen, vergleiche Zielkonflikte zwischen Datenschutz und Produktnutzen und verfolge Modellnutzung und Tokenverbrauch in Grafana.
+Wie werden aus verstreuten Informationen bessere Entscheidungen und konkrete nächste Schritte? In diesen eigenständigen Projekten untersuche ich das an vier unterschiedlichen Nutzerproblemen. Die Showcases zeigen Produktabläufe, ausgewählte Implementierungen und Grenzen. KI ist dabei ein mögliches Hilfsmittel, kein Selbstzweck; nicht jedes Projekt hat bereits eine implementierte KI-Funktion.
 
 ### [Web-App: Whiteboard und Kennzahlen in einer App](https://github.com/yannikberner-AI-PM/movur-showcase/blob/main/README.de.md)
 
-Ein visueller Arbeitsbereich, um Abläufe sichtbar zu machen, die Auswirkungen von Änderungen zu berechnen und Automatisierung zu priorisieren. Der Browser-Prototyp verbindet Prozessschritte, Geschäftskennzahlen und echte Arbeitsmaterialien. Ein Serviceauftragsbeispiel vergleicht bestehende und vorgeschlagene Abläufe. Live-Formeln zeigen die gesamte Prozesszeit und mögliche Zeiteinsparungen.
+**Zusammenhänge verstehen und Entscheidungen direkt durchrechnen.** movur bringt Ideen, Arbeitsmaterialien und Kennzahlen auf ein gemeinsames Board. Verknüpfte Karten und Formeln machen sichtbar, wie sich geänderte Annahmen auf einen Funnel, ein Budget oder einen Ablauf auswirken. So lassen sich Alternativen im selben Modell vergleichen, statt Whiteboard und Tabellen getrennt zu pflegen. Der Editor ist implementiert; KI-gestützte Board-Erstellung und Bearbeitung sind geplant.
 
 ### [Lokale App: Stakeholder Intelligence](https://github.com/yannikberner-AI-PM/stakeholder-intelligence-showcase/blob/main/README.de.md)
 
-Ein Local-first-Produkt, um Nähe und Typ von Stakeholdern abzubilden, Zusammenarbeit zu planen und Folgeaufgaben im Blick zu behalten.
+**Gespräche mit Kontext vorbereiten und die eigene Zusammenarbeit bewusster gestalten.** Der Local-first-Prototyp verbindet eine visuelle Stakeholder-Karte mit Rollen, Beobachtungen und offenen Fragen. Das hilft, Beziehungen zu reflektieren und den nächsten Austausch vorzubereiten. Optionale Kommunikationsvorschläge werden vor der Übernahme geprüft. Einordnungen sind eigene Arbeitshypothesen, keine automatische Persönlichkeitsanalyse; Folgeaufgaben sind Notizen, keine Erinnerungsfunktion.
 
 ### [Mobile App: Predictive Mentoring](https://github.com/yannikberner-AI-PM/predictive-mentoring-showcase/blob/main/README.de.md)
 
-Ein mobiler Prototyp, der persönliche Ziele in Handlungen und beobachtbare Ergebnisse übersetzt. Er nutzt lokale Daten, einen Ausführungspfad für ein Modell auf dem Gerät und deterministische Fallbacks, wenn KI nicht verfügbar ist.
+**Von langfristigen Zielen zu machbaren nächsten Schritten.** MIOVO verbindet persönliche Ziele mit kleinen Alltagshandlungen, Tagebucheinträgen und einer Reflexion des Fortschritts. Der mobile Prototyp hilft, den aktuellen Fokus zu erkennen und nächste Schritte abzuleiten, statt Ziele nur festzuhalten. Fortschrittswerte beruhen auf Heuristiken, nicht auf validierten Erfolgsprognosen. Der gezeigte Ablauf nutzt einen lokalen regelbasierten Helfer; die Ausführung eines Sprachmodells auf dem Gerät ist nicht nachgewiesen.
 
 ### [Web-App: Lotse](https://github.com/yannikberner-AI-PM/cyber-security-connector-showcase/blob/main/README.de.md)
 
-Ein Forschungsprototyp für ein direkt im Unternehmen nutzbares SaaS. Das Ziel: vorhandene Unternehmensunterlagen in eine nachvollziehbare NIS-2-Bestandsaufnahme überführen, zuständige Personen durch offene Entscheidungen und Maßnahmen führen, die Umsetzung nachverfolgen und Executive-Reports als verbindlichen internen Reviewworkflow verankern. Menschliche Freigabe und nachvollziehbare Nachweise sind zentral. Der vollständige Ablauf ist noch nicht implementiert; Beratungspartner und externe Ticket-Systeme sind optional.
+**Aus vorhandenen Unternehmensinformationen einen nachvollziehbaren Handlungsplan für Informationssicherheit/Cyber Security machen.** Lotse soll Unternehmen helfen, eine NIS-2-Bestandsaufnahme vorzubereiten, offene Entscheidungen und Maßnahmen zuzuordnen und deren Umsetzung bis zum internen Management-Review zu verfolgen. Ziel ist ein gemeinsamer Arbeitsstand statt getrennter Unterlagen, Aufgabenlisten und Berichte. Der Forschungsprototyp zeigt regelbasierte Maßnahmenvorschläge und simulierte Tickets. Dokumentenanalyse, Nachweisführung und verbindliche Freigaben sind noch kein vollständiger Ablauf; eine Compliance-Zusage ist damit nicht verbunden.
 
 ## Aktuelles öffentliches Entwicklungsvorhaben
 
